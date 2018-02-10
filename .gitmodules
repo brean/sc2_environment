@@ -1,0 +1,13 @@
+[submodule "atari-py"]
+	path = atari-py
+	url = https://github.com/openai/atari-py.git
+[submodule "baselines"]
+	path = baselines
+	url = https://github.com/openai/baselines.git
+[submodule "pysc2"]
+	path = pysc2
+	url = https://github.com/deepmind/pysc2.git
+[submodule "pysc2-examples"]
+	path = pysc2-examples
+	url = https://github.com/brean/pysc2-examples.git
+	branch = baseline_changes
