@@ -15,4 +15,4 @@ Installation
 1. start the anaconda prompt and change into this directory
 1. install tensorflow (just run `pip install tensorflow`) or install tensorflow-gpu, see [tensorflow-gpu](tensorflow-gpu.md)
 1. run update.bat
-1.1 Note that this will uninstall all previous versions of atari-py, baselines and pysc2 to make sure the working master-versions from github are used because at this time (Feb. 2018) the versions on pypi are not working for Windows.
+    * Note that this will uninstall all previous versions of atari-py, baselines and pysc2 to make sure the working master-versions from github are used because at this time (Feb. 2018) the versions on pypi are not working for Windows.
